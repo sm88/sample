@@ -4,6 +4,6 @@
 #include <stdio.h>
 
 int main(){
-	printf("This is C");
+	printf("This is JAVA");
 	return 0;
 }
